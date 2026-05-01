@@ -5,11 +5,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca do meu 
 
 
 # 🚀 Sobre Mim
-Sou um Desenvolvedor Back-End C# com experiência prática no desenvolvimento de aplicações utilizando ASP.NET Core e Entity Framework Core, com banco de dados MySQL. Minha paixão está na arquitetura de software e na resolução de problemas complexos.
 
-Um dos meus projetos de destaque foi o desenvolvimento de uma API RESTful para um sistema de gerenciamento de tarefas. Neste projeto, implementei:
+Desenvolvi uma API RESTful completa para um sistema de gerenciamento de tarefas, demonstrando minha proficiência em:
 
-Operações CRUD completas.
-Autenticação JWT para segurança.
-Testes unitários para garantir a qualidade do código.
-Essa experiência consolidou minha proficiência em C#, .NET 6 e na modelagem de dados com MySQL.
+C# e .NET 6 com práticas de código limpo. 
+Operações CRUD completas e autenticação JWT para segurança.
+Testes unitários com xUnit para garantir a qualidade e confiabilidade do código.
+Modelagem de dados eficiente com MySQL.
+Estou constantemente buscando aprimorar minhas habilidades e me adaptar às melhores práticas do mercado.
+
+# 💼 Tecnologias
+
+# 📫 Vamos Conectar?
